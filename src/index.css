@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: chicago;
+    src: url(/ChicagoFLF.ttf);
+}
+
+body {
+    font-family: chicago;
+    overflow-y: hidden;
+}
